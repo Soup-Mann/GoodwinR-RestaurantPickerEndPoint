@@ -3,7 +3,7 @@ Reed Goodwin
  Restaurant Picker- It will select a restaurant out of categorys or completely random
  
  
- IN ORDER TO RUN YOU MUST-- Input the following link into Postman, and after the slash ( / ) folloing "restaurant" input a number 1-4 corrosponding to what you want
+ IN ORDER TO RUN YOU MUST-- Input the following link into Postman, and after the slash ( / ) folloing "restaurant" input a whole number 1-4 corrosponding to what you want
  
  http://localhost:5227/Restaurant/  <==(Number 1-4 Goes Here)
  
