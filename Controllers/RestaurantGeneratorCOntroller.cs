@@ -31,7 +31,7 @@ switch(lame){
     return $"You have chosen Adventure!\n--{Adventure[advent]}";
     case "4":
     int thirty = rndNum.Next(0,29);
-     return $"You have chosen Random! ";
+     return $"You have chosen Random!\n--{raandom[thirty]} ";
      
 }
 
