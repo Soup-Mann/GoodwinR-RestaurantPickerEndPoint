@@ -5,7 +5,7 @@ Reed Goodwin
  
  IN ORDER TO RUN YOU MUST-- Input the following link into Postman, and after the slash ( / ) folloing "restaurant" input a number 1-4 corrosponding to what you want
  
- http://localhost:5227/Restaurant/ (Number 1-3)
+ http://localhost:5227/Restaurant/  <==(Number 1-4 Goes Here)
  
 1--Fast Food
 
